@@ -1,2 +1,2 @@
-# twitter-pixel-maker
-Little React app that for making tweet-friendly "pixel art"
+# twitter pixel art thing
+just a proof-of-concept toy, that i thought you might enjoy
